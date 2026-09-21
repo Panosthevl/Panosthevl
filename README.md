@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Panagiotis Vlaras! 👋
 
-<!--
-**Panosthevl/Panosthevl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **QA Automation Engineer** passionate about shifting software testing to the left. I focus on building robust, scalable, and environment-agnostic automated testing frameworks that ensure production-ready software deployment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack & Tools
+
+#### 🎭 Test Automation & Frameworks
+![Playwright](https://shields.io🎭-green?style=flat-square)
+![Pytest](https://shields.io)
+![Selenium](https://shields.io)
+
+#### 💻 Programming Languages
+![Python](https://shields.io)
+![SQL](https://shields.io)
+
+#### ⚙️ CI/CD & Infrastructure
+![GitHub Actions](https://shields.io)
+![Git](https://shields.io)
+
+---
+
+### 🔭 What I'm Currently Working On
+* 🚀 Maintaining and scaling my production-ready [playwright-saucedemo-pom](https://github.com) framework.
+* 🧪 Deep diving into API Testing frameworks using Python & Postman.
+* 📈 Integrating advanced load and performance constraints into standard automated regressions.
+
+---
+
+### 📬 Connect with me
+* **LinkedIn:** [panagiotis-vlaras](https://www.linkedin.com/in/panagiotis-vlaras) <!-- Βάλε το URL που βρήκαμε πριν -->
+* **Email:** [panosthevl@gmail.com]
+
